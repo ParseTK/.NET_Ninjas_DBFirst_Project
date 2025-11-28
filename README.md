@@ -1,9 +1,9 @@
 # Dockerized .NET Web API + MicrosoftSQL (EFCore)
 
 ##Prerequisites
-- [ ] Docker Desktop
-- [ ] .NET SDK
-- [ ] Clone Repo
+- [x] Docker Desktop
+- [x] .NET SDK
+- [x] Clone Repo
 
 ##Build API Container
 ```bash
