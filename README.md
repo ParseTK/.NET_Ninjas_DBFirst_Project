@@ -10,7 +10,7 @@
 docker-compose up -d --build
 ```
 
-# Description
+## Description
 ```
 Database first approach
 Swagger UI
@@ -18,3 +18,5 @@ CRUD Operations for Customers, Products, and orders.
 Reusable data layer
 Couple Tests (Could be improved and expanded)
 ```
+# Author
+Tyler Kirchner
